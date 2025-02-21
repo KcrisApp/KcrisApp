@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [wep project](https://weprototype.it/it/)
 
-- 🌱 I’m currently learning **Python and Javascript**
+- 🌱 I’m currently learning **Python, PHP and Javascript**
 
 - 👨‍💻 All of my projects are available at [https://kcrisapp.github.io/](https://kcrisapp.github.io/)
 
